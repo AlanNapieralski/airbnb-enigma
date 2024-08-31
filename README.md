@@ -1,2 +1,2 @@
 # airbnb-enigma
-The big airbnb accommodation price split problem that has not been possible to solve even by the brightest of Mathematics Masters.
+The complex Airbnb accommodation price-splitting problem that has proven challenging even for experts with advanced degrees in mathematics
