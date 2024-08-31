@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3",
+    "supertest": "^7.0.0"
+  },
+  "name": "airbnb",
+  "version": "1.0.0",
+  "main": "airbnb.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha ./airbnb.test.js"
+  },
+  "author": "Alan Napieralski",
+  "license": "ISC",
+  "description": ""
+}
