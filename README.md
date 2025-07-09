@@ -10,8 +10,8 @@ So we built a lightweight tool that takes into account different contributions a
 
 No app store. No ads. Just code, friends, and clean debt-settling.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- BUILT WITH -->
 ### Built With
 This app has been built purely in JavaScript for the sake of simplicity. 
 For testing, I've used the following external libraries: 
@@ -19,12 +19,9 @@ For testing, I've used the following external libraries:
 - mocha
 - chai
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
